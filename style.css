@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    background-color:rgb(237, 251, 224);
+    border-radius: 30px 30px 30px 0px;
+    box-shadow: 12px 12px 27px rgb(110, 109, 109);
+    width: auto;
+    height: 37.5rem;
+}
+
+img{
+    width: 120%;
+    height: 37.5rem;
+    border-radius: 50% 0px 50% 0px;
+}
+
+.text-center{
+    margin-top: 5rem;
+}
+
+.login h1{
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.inp{
+    height: 40px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 5px 5px 8px gray;
+}
+
+.btn1{
+    background-color: rgb(172, 231, 238);
+    width: 140px;
+    height: 43px;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    box-shadow: 5px 5px 8px gray;
+}
+
+.text:hover{
+    cursor: default;
+}
+
+.icons:hover{
+    cursor: pointer;
+}
+
+.fa-google:hover{
+    color:rgb(175, 31, 34)
+}
+.fa-facebook:hover{
+     color:rgb(40, 31, 216)
+}
+.fa-apple:hover{
+     color:aqua
+}
+.fa-instagram:hover{
+     color:rgb(162, 32, 173)
+}
+.fa-github:hover{
+     color:aqua
+}
